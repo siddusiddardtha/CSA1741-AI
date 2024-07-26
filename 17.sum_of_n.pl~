@@ -1,0 +1,2 @@
+sum1(X,Y,SUM):-
+    SUM is X+Y.
